@@ -53,4 +53,4 @@ app.index_string = '''
 app.layout = layout
 
 if __name__ == "__main__":
-    app.run_server(debug = True, port = 8070)
+    app.run_server()
